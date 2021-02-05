@@ -33,7 +33,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="722">
-                <caret line="59" column="4" lean-forward="true" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
+                <caret line="73" column="20" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
               </first_editor>
               <second_editor />
             </state>
@@ -59,7 +59,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1068" />
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
     <option name="width" value="1101" />
     <option name="height" value="1392" />
   </component>
@@ -68,6 +69,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -84,11 +86,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../learnAlgorithmsAndDataStructures" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -162,15 +163,22 @@
       <option name="project" value="LOCAL" />
       <updated>1611793615099</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="1.29 update financial">
+      <created>1611881608688</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1611881608688</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1455" height="935" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" id="Favorites" order="0" sideWeight="0.50809467" side_tool="true" visible="true" weight="0.16913319" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49190536" visible="true" weight="0.16913319" />
+      <window_info id="Favorites" order="0" sideWeight="0.5118306" side_tool="true" weight="0.1465821" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.48816937" visible="true" weight="0.021141648" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32876712" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -190,7 +198,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update financial" />
-    <option name="LAST_COMMIT_MESSAGE" value="update financial" />
+    <MESSAGE value="1.29 update financial" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.29 update financial" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/AppData/Local/Temp/WeChat Files/531f4f06e9cfb9acf03b292070be9c4.png" />
@@ -209,7 +218,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="722">
-            <caret line="59" column="4" lean-forward="true" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
+            <caret line="73" column="20" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
           </first_editor>
           <second_editor />
         </state>
