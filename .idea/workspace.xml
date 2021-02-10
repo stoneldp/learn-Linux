@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bfb65f4-7a44-4df3-90fd-ab67e15bf229" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/微观经济学/第3讲   弹性理论及其应用.md" beforeDir="false" afterPath="$PROJECT_DIR$/微观经济学/第3讲   弹性理论及其应用.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/微观经济学/第4讲 消费者行为.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/微观经济学/2 第二讲 供给、需求与市场均衡.md" beforeDir="false" afterPath="$PROJECT_DIR$/微观经济学/第2讲 供给、需求与市场均衡.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,12 +16,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/微观经济学/第3讲   弹性理论及其应用.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="677">
-                <caret line="56" column="18" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
+              <first_editor relative-caret-position="378">
+                <caret line="38" column="34" lean-forward="true" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/微观经济学/第4讲 消费者行为.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="465">
+                <caret line="31" column="2" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/微观经济学/第2讲 供给、需求与市场均衡.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="93">
+                <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
               </first_editor>
               <second_editor />
             </state>
@@ -46,6 +70,7 @@
         <option value="$PROJECT_DIR$/微观经济学/2 第二讲 供给、需求与市场均衡.md" />
         <option value="$PROJECT_DIR$/微观经济学/第1讲 微观经济学导论：稀缺性与微观经济学.md" />
         <option value="$PROJECT_DIR$/微观经济学/第3讲   弹性理论及其应用.md" />
+        <option value="$PROJECT_DIR$/微观经济学/第4讲 消费者行为.md" />
       </list>
     </option>
   </component>
@@ -182,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612792740308</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="2.10 update financial">
+      <created>1612914460688</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1612914460688</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -190,7 +222,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.5118306" side_tool="true" weight="0.1465821" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.48816937" visible="true" weight="0.07963354" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.48816937" visible="true" weight="0.1529246" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32876712" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -209,7 +241,7 @@
     </layout>
     <layout-to-restore>
       <window_info id="Favorites" order="0" sideWeight="0.5118306" side_tool="true" weight="0.1465821" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.48816937" visible="true" weight="0.1627907" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.48816937" visible="true" weight="0.1529246" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32876712" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -231,7 +263,8 @@
     <MESSAGE value="update financial" />
     <MESSAGE value="1.29 update financial" />
     <MESSAGE value="2.5 update financial" />
-    <option name="LAST_COMMIT_MESSAGE" value="2.5 update financial" />
+    <MESSAGE value="2.10 update financial" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.10 update financial" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/AppData/Local/Temp/WeChat Files/531f4f06e9cfb9acf03b292070be9c4.png" />
@@ -260,11 +293,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/微观经济学/第2讲 供给、需求与市场均衡.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="93">
+            <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/微观经济学/第3讲   弹性理论及其应用.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="677">
-            <caret line="56" column="18" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
+          <first_editor relative-caret-position="378">
+            <caret line="38" column="34" lean-forward="true" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/微观经济学/第4讲 消费者行为.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="465">
+            <caret line="31" column="2" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
           </first_editor>
           <second_editor />
         </state>
