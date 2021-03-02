@@ -117,7 +117,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ldp-GTD" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -247,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613865080241</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="2.24 update financial">
+      <created>1614169864922</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1614169864922</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -300,7 +307,8 @@
     <MESSAGE value="2.11 update financial" />
     <MESSAGE value="2.17 update financial" />
     <MESSAGE value="2.21 update financial" />
-    <option name="LAST_COMMIT_MESSAGE" value="2.21 update financial" />
+    <MESSAGE value="2.24 update financial" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.24 update financial" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/AppData/Local/Temp/WeChat Files/531f4f06e9cfb9acf03b292070be9c4.png" />
